@@ -50,7 +50,7 @@ Currently, I'm focusing on backend technologies, databases, and software archite
 
 ## 📫 Contact
 
-* GitHub: https://github.com/YOUR_GITHUB_USERNAME
+* GitHub: https://github.com/furkanaygin
 
 ---
 
