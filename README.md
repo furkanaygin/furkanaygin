@@ -16,7 +16,7 @@ Currently, I'm focusing on backend technologies, databases, and software archite
 * Python
 * Java
 * SQL
-* Flutter
+  
   
 
 ### Databases
